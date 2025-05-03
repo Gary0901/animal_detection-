@@ -26,3 +26,6 @@ env/
 # ¨t²ÎÀÉ®×
 .DS_Store
 Thumbs.db
+
+*.zip
+*.pdf
