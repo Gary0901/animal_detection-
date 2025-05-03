@@ -1,0 +1,15 @@
+path : ../
+train : images
+val : images
+
+# Classes
+names :
+ 0: Cervus unicolor swinhoei
+ 1: Ursus thibetanus formosanus
+ 2: Naemorhedus swinhoei
+ 3: Mustela sibirica taivana
+ 4: Martes flavigula chrysospila
+ 5: Pholidota
+ 6: Petaurista alborufus lena
+ 7: Macaca cyclopis
+ 8: Muntiacus reevesi
