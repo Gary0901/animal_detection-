@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 編譯的檔案
+*.pdf
+*.exe
+
+# 可能的暫存檔案
+*.log
+*.tmp
+
+# IDE 相關
+.idea/
+.vscode/
+
+# 環境設定檔
+.env
+venv/
+env/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
